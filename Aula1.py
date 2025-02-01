@@ -1,3 +1,6 @@
-print('meu nome é Lucas')
-print('tenho 22 anos')
+#Aula 1 - PRINTS
+
+print('Meu nome é Lucas')
+print('Tenho 22 anos')
+print('Sou programador')
 

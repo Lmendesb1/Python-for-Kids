@@ -5,3 +5,4 @@ ano_nasc= 2025-idade
 
 print("Olá", nome, "Você tem", idade,"anos e nasceu no ano de", ano_nasc)
 
+
